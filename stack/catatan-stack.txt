@@ -1,0 +1,10 @@
+stack merupakan struktur data yang bekerja secara LIFO (Last In First Out), artinya elemen terakhir dimasukkan akan menjadi elemen pertama yang dikeluarkan. 
+
+analoginya seperti tumpukan piring, piring terakhir yang ditumpuk adalah piring pertama yang diambil
+
+beberapa operasi utama dalam stack
+* push : menambahkan elemen ke stack paling atas
+* pop : menghapus elemen stack paling atas
+* peek : melihat elemen paling atas
+* isEmpty : memeriksa apakah stack kosong
+* size : menghitung jumlah elemen dalam stack

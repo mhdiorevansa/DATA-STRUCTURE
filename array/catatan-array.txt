@@ -1,0 +1,3 @@
+array adalah struktur data linear yang dapat menyimpan beberapa nilai dalam satu variabel. nilai dalam array diakses menggunakan indeks (dimulai dari 0).
+
+analoginya seperti rak buku, rak merupakaan array, nomor slot merupakan indeks array, dan buku adalah elemen. jadi setiap slot dalam rak menyimpan 1 buku.
