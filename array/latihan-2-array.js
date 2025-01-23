@@ -1,5 +1,5 @@
 const NamaBuah = (buah) => {
-   // tambahkan elemen di akhir array
+   // tambahkan elemen di awal array
    buah.unshift("pisang");
 
    // hapus elemen di akhir array

@@ -4,7 +4,7 @@ analoginya seperti tumpukan piring, piring terakhir yang ditumpuk adalah piring 
 
 beberapa operasi utama dalam stack
 * push : menambahkan elemen ke stack paling atas
-* pop : menghapus elemen stack paling atas
+* pop : menghapus elemen stack paling atas dan mengembalikannya sebagai hasil operasi
 * peek : melihat elemen paling atas
 * isEmpty : memeriksa apakah stack kosong
 * size : menghitung jumlah elemen dalam stack

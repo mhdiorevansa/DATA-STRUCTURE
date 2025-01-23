@@ -1,0 +1,12 @@
+queue adalah struktur data yang mengikuti prinsip FIFO (First In First Out), yang artinya elemen pertama yang datang/masuk adalah elemen pertama yang akan diproses (dikeluarkan)
+
+analoginya seperti antrian rumah sakit, yang datang pertama itulah yang akan diproses
+
+operasi pada queue:
+* enqueue : menambahkan elemen di akhir antrian (queue)
+* dequeue : mengeluarkan elemen dari depan antrian
+* front : mengakses elemen pertama tanpa mengeluarkannya
+* isEmpty : mengecheck apakah elemen kosong
+* size : mengetahui jumlah elemen dalam antrian
+
+ada juga yang namanya queue priority, setiap elemen mempunyai prioritas tertentu
